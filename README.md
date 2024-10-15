@@ -1,2 +1,2 @@
 # tribute_webpage
-Building a tribute page using html and css
+Building a tribute page using html and css.
