@@ -1,8 +1,6 @@
-# tribute_webpage
-Building a tribute page using html and css.
 
 # Tribute Page Project
-
+Building a tribute page using html and css.
 A tribute page dedicated to **Dr. Norman Borlaug**, a renowned agronomist and humanitarian known for his significant contributions to agricultural science and the Green Revolution.
 
 ## Overview
