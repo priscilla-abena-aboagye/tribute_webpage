@@ -9,6 +9,6 @@ This project highlights the life and accomplishments of Dr. Norman Borlaug. It p
 
 ## Technologies Used
 
-- **HTML5**: For the structure of the web page.
-- **CSS**: For styling and layout.
+- HTML5: For the structure of the web page.
+- CSS: For styling and layout.
 
